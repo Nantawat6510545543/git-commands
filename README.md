@@ -26,7 +26,7 @@ In this file, directory paths are written with a forward slash as on MacOS, Linu
    ```
    # Git configuration commands for a new account
    git config --global user.name "Nantawat SUKSIRISUNT"
-   git config --global user.email nantawat.suk@ku.thN
+   git config --global user.email nantawat.suk@ku.th
    ```
 
 3. There are 2 ways to create a local Git repository.  Briefly descibe each one:
